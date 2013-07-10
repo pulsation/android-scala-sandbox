@@ -1,3 +1,3 @@
 android.Plugin.androidBuild
 
-name := "AlarmSandbox"
+name := "AndroidScalaSandbox"
