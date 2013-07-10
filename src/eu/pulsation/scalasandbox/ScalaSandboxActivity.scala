@@ -1,6 +1,6 @@
 package eu.pulsation.scalasandbox
 
-import android.app.Activity
+import android.app.{Activity, AlarmManager}
 import android.os.Bundle
 
 class ScalaSandboxActivity extends Activity
